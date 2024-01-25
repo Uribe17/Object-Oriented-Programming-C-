@@ -1,5 +1,5 @@
 /***
- *This program will display "Hello World" twice
+  * This program will display "Hello World" twice
 ***/
 
 #include <iostream>
