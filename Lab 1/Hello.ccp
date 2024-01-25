@@ -6,8 +6,8 @@
 #include <cstdlib>
 using namespace std;
 
-int main() {
-  cout << "Hello World!" << end1;
-  printf("Hello World Again!\n");
-  return 0;
+int Main() {
+    cout << "Hello World!" << end1;
+    printf("Hello World Again!\n");
+    return 0;
 }
