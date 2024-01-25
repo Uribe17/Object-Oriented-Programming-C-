@@ -1,5 +1,5 @@
 /***
-  *This program will give an output of Hello World twice
+  *This program will display a message
 ***/
 
 #include <iostream>
@@ -7,7 +7,7 @@
 using namespace std;
 
 int main() {
-    cout << "Hello World!" << end1;
-    printf("Hello World Again!\n");
-    return 0;
+  cout << "Hello World!" << end1;
+  printf("Hello World Again!\n");
+  return 0;
 }
