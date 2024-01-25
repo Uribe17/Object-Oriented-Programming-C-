@@ -1,1 +1,2 @@
-# Object-Oriented-Programming-C-
+# Object-Oriented-Programming-C++
+# This Repository is for my C++ course.
