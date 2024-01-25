@@ -1,5 +1,5 @@
 /***
-  *This program will display a message
+  *This program will display Hello World
 ***/
 
 #include <iostream>
